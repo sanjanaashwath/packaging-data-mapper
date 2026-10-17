@@ -1,0 +1,83 @@
+[
+  {
+    "sku": "SKU-1001",
+    "product_name": "Shower Gel 250ml",
+    "country": "DE",
+    "components": [
+      {
+        "component": "bottle",
+        "material": "PET",
+        "weight_g": 24.0,
+        "recyclable": true,
+        "supplier": "Plastico GmbH"
+      },
+      {
+        "component": "cap",
+        "material": "PP",
+        "weight_g": 3.5,
+        "recyclable": true,
+        "supplier": "Plastico GmbH"
+      }
+    ],
+    "total_packaging_weight_g": 27.5
+  },
+  {
+    "sku": "SKU-1002",
+    "product_name": "Body Lotion 400ml",
+    "country": "DE",
+    "components": [
+      {
+        "component": "bottle",
+        "material": "HDPE",
+        "weight_g": 32.0,
+        "recyclable": true,
+        "supplier": "Plastico GmbH"
+      },
+      {
+        "component": "label",
+        "material": "PAPER",
+        "weight_g": 1.2,
+        "recyclable": true,
+        "supplier": null
+      }
+    ],
+    "total_packaging_weight_g": 33.2
+  },
+  {
+    "sku": "SKU-1003",
+    "product_name": "Hand Cream 75ml",
+    "country": "FR",
+    "components": [
+      {
+        "component": "tube",
+        "material": "ALUMINIUM",
+        "weight_g": 12.0,
+        "recyclable": true,
+        "supplier": "MetalPack SA"
+      },
+      {
+        "component": "outer box",
+        "material": "PAPER",
+        "weight_g": 18.0,
+        "recyclable": true,
+        "supplier": "CartonCo"
+      }
+    ],
+    "total_packaging_weight_g": 30.0
+  },
+  {
+    "sku": "SKU-1005",
+    "product_name": "Shampoo 500ml",
+    "country": "AT",
+    "components": [
+      {
+        "component": "bottle",
+        "material": "PET",
+        "weight_g": 31.0,
+        "recyclable": false,
+        "supplier": "Plastico GmbH"
+      }
+    ],
+    "total_packaging_weight_g": 31.0
+  }
+]

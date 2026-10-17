@@ -1,0 +1,13 @@
+Artikelnr;Product Name;Packaging Component;Material Type;Weight;Recyclable?;Country;Supplier
+  SKU-1001 ;Shower Gel 250ml;Bottle;PET;24 g;yes;DE;Plastico GmbH
+SKU-1001;Shower Gel 250ml;Cap;pp;3,5g;Y;Germany;Plastico GmbH
+SKU-1002;Body Lotion 400ml;Bottle;HDPE;0.032 kg;Ja;deutschland;Plastico GmbH
+SKU-1002;Body Lotion 400ml;Label;Paper;1.2 g;true;DE;
+SKU-1003;Hand Cream 75ml;Tube;Aluminium;12g;yes;FR;MetalPack SA
+SKU-1003;Hand Cream 75ml;Outer Box;cardboard;18 g;yes;France;CartonCo
+SKU-1004;Face Serum 30ml;Bottle;Glass;;yes;IT;Vetro SpA
+SKU-1004;Face Serum 30ml;Pipette;Rubber;2 g;maybe;IT;Vetro SpA
+SKU-1005;Shampoo 500ml;Bottle;PET;31g;no;AT;Plastico GmbH
+;Travel Kit;Bag;LDPE;8 g;no;DE;
+SKU-1005;Shampoo 500ml;Bottle;PET;31g;no;AT;Plastico GmbH
+SKU-1006;Lip Balm;Stick;Polypropylene;abc;yes;ES;Plastico GmbH

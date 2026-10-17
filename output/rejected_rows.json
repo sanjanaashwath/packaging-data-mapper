@@ -1,0 +1,72 @@
+[
+  {
+    "line": 8,
+    "reason": "missing weight",
+    "raw": {
+      "Artikelnr": "SKU-1004",
+      "Product Name": "Face Serum 30ml",
+      "Packaging Component": "Bottle",
+      "Material Type": "Glass",
+      "Weight": "",
+      "Recyclable?": "yes",
+      "Country": "IT",
+      "Supplier": "Vetro SpA"
+    }
+  },
+  {
+    "line": 9,
+    "reason": "recyclable value 'maybe' is not yes/no",
+    "raw": {
+      "Artikelnr": "SKU-1004",
+      "Product Name": "Face Serum 30ml",
+      "Packaging Component": "Pipette",
+      "Material Type": "Rubber",
+      "Weight": "2 g",
+      "Recyclable?": "maybe",
+      "Country": "IT",
+      "Supplier": "Vetro SpA"
+    }
+  },
+  {
+    "line": 11,
+    "reason": "missing SKU",
+    "raw": {
+      "Artikelnr": "",
+      "Product Name": "Travel Kit",
+      "Packaging Component": "Bag",
+      "Material Type": "LDPE",
+      "Weight": "8 g",
+      "Recyclable?": "no",
+      "Country": "DE",
+      "Supplier": ""
+    }
+  },
+  {
+    "line": 12,
+    "reason": "duplicate row",
+    "raw": {
+      "Artikelnr": "SKU-1005",
+      "Product Name": "Shampoo 500ml",
+      "Packaging Component": "Bottle",
+      "Material Type": "PET",
+      "Weight": "31g",
+      "Recyclable?": "no",
+      "Country": "AT",
+      "Supplier": "Plastico GmbH"
+    }
+  },
+  {
+    "line": 13,
+    "reason": "weight 'abc' is not a valid number",
+    "raw": {
+      "Artikelnr": "SKU-1006",
+      "Product Name": "Lip Balm",
+      "Packaging Component": "Stick",
+      "Material Type": "Polypropylene",
+      "Weight": "abc",
+      "Recyclable?": "yes",
+      "Country": "ES",
+      "Supplier": "Plastico GmbH"
+    }
+  }
+]
