@@ -1,0 +1,34 @@
+{
+  "columns": {
+    "Artikelnr": "sku",
+    "Product Name": "product_name",
+    "Packaging Component": "component",
+    "Material Type": "material",
+    "Weight": "weight",
+    "Recyclable?": "recyclable",
+    "Country": "country",
+    "Supplier": "supplier"
+  },
+  "materials": {
+    "pet": "PET",
+    "pp": "PP",
+    "polypropylene": "PP",
+    "hdpe": "HDPE",
+    "ldpe": "LDPE",
+    "paper": "PAPER",
+    "cardboard": "PAPER",
+    "glass": "GLASS",
+    "aluminium": "ALUMINIUM",
+    "aluminum": "ALUMINIUM",
+    "rubber": "OTHER"
+  },
+  "countries": {
+    "de": "DE", "germany": "DE", "deutschland": "DE",
+    "fr": "FR", "france": "FR",
+    "it": "IT", "italy": "IT", "italien": "IT",
+    "at": "AT", "austria": "AT", "österreich": "AT",
+    "es": "ES", "spain": "ES", "spanien": "ES"
+  },
+  "boolean_true": ["yes", "y", "ja", "true", "1"],
+  "boolean_false": ["no", "n", "nein", "false", "0"]
+}
